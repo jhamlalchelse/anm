@@ -1,0 +1,36 @@
+.footer{
+    background-color: rgb(265, 150, 162);
+    margin-bottom: -16px;
+}
+.footer p{
+    color: rgb(254, 246, 253);
+    font-size: 14px;
+}
+.footer h5{
+    color: rgb(94, 96, 97);
+}
+.footer-service div{
+     text-align: center;
+}
+.footer-service div p:nth-child(3){
+    margin-top: -10px;
+}
+.social-icon-border{
+    border: 1px solid white;
+    margin: 5px;
+    padding: 0px 10px 5px;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.bottomToTopArrow{
+    position: absolute;
+    right: -3vmax;
+    top: 3.5vmax;
+    cursor: pointer;
+}
+.bottomToTopArrow-relative{
+    position: relative;
+}
+.arrow-up-top{
+    color: rgb(61, 186, 186);
+}

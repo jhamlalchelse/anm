@@ -1,0 +1,117 @@
+.breadcrumb-bgcolor {
+    background-color: rgba(93, 167, 202, 0.1);
+    padding: 3px;
+}
+.breadcrumber-nav-url-start{
+    font-size: 20px;
+    color: #C4C4C4;
+    font-weight: 400;
+}
+.bread-height-img{
+    height: 18px;
+    margin-bottom: 5px;
+}
+.searchEdit {
+    background-color: #5DA7CA;
+    padding: 2px 5px;
+    cursor: pointer;
+    border-radius: 7px;
+    margin: 10px 0;
+    color: white;
+    font-family: 'Roboto';
+}
+
+.search-filter-div {
+    margin: 30px 40%;
+}
+
+.search-filter-sort {
+    border: 2px solid #5DA7CA;
+    width: 74%;
+    border-radius: 5px;
+    margin-left: 2px;
+}
+
+.search-filter-input {
+    width: 86%;
+    border: none;
+    outline: none;
+}
+
+.price-trends {
+    border: none;
+    outline: none;
+    background-color: white;
+    border-radius: 40px;
+    padding: 0 5px 1px;
+    margin: 5px 0 10px;
+    /* color: rgb(0,0,0); */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 450;
+}
+
+.margin-top-neg {
+    margin-top: -15px;
+}
+
+.location-icon-border {
+    border-radius: 50%;
+    background-color: rgba(93, 167, 202, 0.1);
+    color: #5DA7CA;
+    font-size: large;
+    margin-right: 5px;
+
+}
+
+.crop-image-dim {
+    width: 100px;
+    height: 93px;
+}
+.heading-of-crop{
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: start;
+}
+.week-maxmin-data-div {
+    padding: 10px;
+    text-align: center;
+}
+
+.margin-top-neg-price {
+    margin-top: -10px;
+}
+
+.week-wise-peice-border {
+    border: 1px solid gray;
+    margin-bottom: 10px;
+    height: 50px;
+    padding: 5px 0 0;
+    width: 12vmax;
+}
+
+.visibility-week-data {
+    visibility: hidden;
+}
+
+.week-wise-peice-border-div:hover .visibility-week-data {
+    visibility: visible;
+
+}
+
+.week-wise-peice-border-div:hover {
+    background-color: rgba(229, 229, 229, 0.5);
+    padding: 10px 10px 0;
+    border-top: 2px solid #5DA7CA;
+}
+
+.week-wise-peice-border-div:hover .week-wise-peice-border {
+    border: none;
+}
+
+/*  */
+.data-bar-display-is-none{
+    display: none;
+}
+
